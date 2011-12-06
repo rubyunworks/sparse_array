@@ -2,17 +2,17 @@
 
 ## DESCRIPTION
 
-Sparse Array was simply an expirement in implementing
+Sparse Array was simply an experiment in implementing
 an Array class on top of Hash. In so doing allowing for
-very efficent *sparse arrays* --arrays with many empty
+very efficient *sparse arrays* --arrays with many empty
 entries.
 
 Ruby's Array implementation has improved a great deal
 and is now much more efficient at handling sparse
-arrays, so this library it nothing more than a neovelty
+arrays, so this library it nothing more than a novelty
 or learning aid, at this point.
 
-An side note, this library is the first your humble author
+Also, a bit of trivia: This library is the first your humble author
 ever used TDD to produce.
 
 
@@ -20,6 +20,6 @@ ever used TDD to produce.
 
 Copyright (c) 2004 Rubyworks
 
-This library is distribuable in accordance with the BSD-2-Clause license.
+This library is distributable in accordance with the BSD-2-Clause license.
 
 See COPYING.md for details.
